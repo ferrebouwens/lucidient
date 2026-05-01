@@ -1,4 +1,4 @@
-import { Github, Linkedin, Briefcase } from "lucide-react";
+import { Globe, Briefcase } from "lucide-react";
 
 const navLinks = [
   { href: "#services", label: "Services" },
@@ -8,8 +8,8 @@ const navLinks = [
 ];
 
 const socialLinks = [
-  { href: "https://github.com", icon: Github, label: "GitHub" },
-  { href: "https://linkedin.com", icon: Linkedin, label: "LinkedIn" },
+  { href: "https://github.com", icon: Globe, label: "GitHub" },
+  { href: "https://linkedin.com", icon: Globe, label: "LinkedIn" },
   { href: "https://fiverr.com", icon: Briefcase, label: "Fiverr" },
 ];
 
