@@ -8,19 +8,19 @@ const team = [
     name: "Alex Chen",
     role: "Founder & AI Engineer",
     bio: "Building intelligent systems that solve real business problems.",
-    avatar: "/images/team-1.jpg",
+    avatar: "/images/team-1.svg",
   },
   {
     name: "Maya Rodriguez",
     role: "Workflow Architect",
     bio: "Designing automation that actually works in production.",
-    avatar: "/images/team-2.jpg",
+    avatar: "/images/team-2.svg",
   },
   {
     name: "Jordan Park",
     role: "Creative Developer",
     bio: "Crafting experiences that blend design and technology.",
-    avatar: "/images/team-3.jpg",
+    avatar: "/images/team-3.svg",
   },
 ];
 

@@ -10,17 +10,17 @@ const projects = [
   {
     title: "AI Sales Agent",
     tagline: "Automated lead qualification & outreach",
-    image: "/images/portfolio-1.jpg",
+    image: "/images/portfolio-1.svg",
   },
   {
     title: "Workflow Engine",
     tagline: "Multi-app automation platform",
-    image: "/images/portfolio-2.jpg",
+    image: "/images/portfolio-2.svg",
   },
   {
     title: "Brand Experience",
     tagline: "Interactive 3D product showcase",
-    image: "/images/portfolio-3.jpg",
+    image: "/images/portfolio-3.svg",
   },
 ];
 
